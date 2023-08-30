@@ -2,7 +2,8 @@
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning fine grain access
 - 💞️ I’m looking to collaborate on any project using Java
-- 📫 How to reach me : LinkedIn
+- 👀 I am open to helping anyone with their IT needs
+- 📫 How to reach me : [LinkedIn](https://www.linkedin.com/in/amit-rangra/)
 
 <!---
 amitrangra/amitrangra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
